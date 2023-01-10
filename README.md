@@ -3,4 +3,4 @@
 В данном репозитории будет собран материал по пройденным курсам / интенсивам и т.п.
 
 **Темы:**
-1. [Основы браузера и интернета](https://github.com/Krofer/education/networks)
+1. [Основы браузера и интернета](https://github.com/Krofer/education/tree/main/networks)
